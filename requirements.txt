@@ -1,0 +1,9 @@
+ollama
+pyserial
+numpy
+sounddevice
+kokoro-onnx
+faster-whisper
+chromadb
+duckduckgo_search
+onnxruntime-gpu
